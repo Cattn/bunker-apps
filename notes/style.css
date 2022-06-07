@@ -2,6 +2,7 @@ html,
 body {
     height: 100%;
     margin: 0;
+    color
 }
 
 .notes {
@@ -22,7 +23,7 @@ body {
 }
 
 .notes__add {
-    background: #009578;
+    background: #780202;
     border: none;
     border-radius: 7px;
     color: #ffffff;
@@ -35,7 +36,7 @@ body {
 }
 
 .notes__add:hover {
-    background: #00af8c;
+    background: #8f0000;
 }
 
 .notes__list-item {
@@ -92,4 +93,5 @@ body {
     line-height: 1.5;
     margin-top: 2em;
     resize: none;
+    height: 100%;
 }
