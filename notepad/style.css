@@ -1,0 +1,20 @@
+html {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 1.4;
+    color: #fff;
+    background: #302f2f;
+
+}
+
+
+.title {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.small {
+    font-size: 0.8em;
+
+}
