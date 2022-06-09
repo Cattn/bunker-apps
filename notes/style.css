@@ -95,3 +95,9 @@ body {
     resize: none;
     height: 100%;
 }
+
+.tiny {
+    font-size: 0.7em;
+
+
+}

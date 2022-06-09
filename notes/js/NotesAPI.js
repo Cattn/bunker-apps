@@ -49,7 +49,18 @@ export default class NotesAPI {
 
     }
 
+    static bunkerIntegration() {
+        const notes = NotesAPI.getAllNotes();
 
+// unfinished bunker-x integration with system.
+// planned to use bunker-x to store notes using virtual file system
+// bunker-x will also handle notifications and timers for the notes
+// you will be able to backup-export-save-and share your notes with others.\
+
+
+    console.log("wow the function actually worked");
+    
+    }
 
 
 }

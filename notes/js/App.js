@@ -39,7 +39,7 @@ export default class App {
             },
             onNoteAdd: () => {
                 const newNote = {
-                    title: "New Note",
+                    title: "Untitled Note",
                     body: "Take note..."
                 };
 
