@@ -44,6 +44,7 @@ export default class App {
                 };
 
                 NotesAPI.saveNote(newNote);
+               // NotesAPI.bunkerIntegration();
                 this._refreshNotes();
             },
             onNoteEdit: (title, body) => {

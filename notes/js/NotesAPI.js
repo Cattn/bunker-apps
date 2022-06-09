@@ -51,7 +51,7 @@ export default class NotesAPI {
 
     static bunkerIntegration() {
         const notes = NotesAPI.getAllNotes();
-
+        system.interfaceMessage("notification", {"title": "Notes-app", "text": "Note Created!"});
 // unfinished bunker-x integration with system.
 // planned to use bunker-x to store notes using virtual file system
 // bunker-x will also handle notifications and timers for the notes
