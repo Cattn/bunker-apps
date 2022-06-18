@@ -53,7 +53,7 @@ export default class App {
                     title,
                     body
                 });
-
+                
                 this._refreshNotes();
             },
             onNoteDelete: noteId => {
