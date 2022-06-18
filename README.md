@@ -7,6 +7,8 @@ Collection of bunker apps made for bunker X, these will also be usable on their 
 ....
 # List of apps ready for integration:
 Notes
+Notepad
 # List of apps planned:
 Calculator
+Facetime
 + More...
